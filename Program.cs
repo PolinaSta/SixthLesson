@@ -126,7 +126,7 @@
 // {
 //     int x = 0;
 //     int i = 0;
-//     int[] Code = new int[10];
+//     int[] Code = new int[6];
 
 //     while (num >= 1)
 //     {
